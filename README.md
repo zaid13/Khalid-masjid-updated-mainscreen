@@ -1,6 +1,7 @@
-# Flutter app to share pictures using firebase.
+# Flutter app to display pictures on slider using firebase.
 
-This is photo sharing app, which will upload pictures to firebase database from phone storage or camera. Later those pictures can be viewed inside gallery of app.
+
+This is message/photo displaying app, which will upload pictures to firebase database from phone storage or camera. Later those pictures can be viewed inside gallery of app. this can be used for advertisement using smart screens 
 
 ## Getting Started
 
